@@ -1,4 +1,4 @@
-# RiseQuestWeb Character Randomizer
+# Unreal Character Randomizer
 
 A prototype Unreal Engine project that generates character appearance data from a local HTTP API and applies it in-engine.
 
