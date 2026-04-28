@@ -1,0 +1,60 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.aps
+*.pch
+*.pdb
+*.idb
+*.ipdb
+*.log
+*.tlog
+*.tmp
+*.obj
+*.lib
+*.exp
+*.dll
+*.exe
+*.app
+*.dSYM
+*.xcuserstate
+
+# Build directories
+Build/
+Build/*
+
+# Visual Studio / Rider / IDE files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Generated server build outputs
+ServerLinux/bin/
+ServerLinux/obj/
+ServerWindows/bin/
+ServerWindows/obj/
+ServerWindows/packages/
+
+# Misc generated files
+CrashReportClient/Saved/
+DerivedDataCache/
+Saved/
+
+# Exclude any local generated Unreal build configuration files
+*.opensdf
+*.sdf
+*.log
+*.vspscc
+*.vsscc
+
+# Keep Media folder tracked
+!Media/
